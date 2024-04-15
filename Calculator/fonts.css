@@ -1,0 +1,59 @@
+.title {
+    color: greenyellow;
+    font-size: 40px;
+    text-shadow: grey 2px 15px;
+}
+
+.box1 {
+    color: blueviolet;
+    font-size: 23px;
+}
+
+.box2 {
+    color: blue;
+    font-size: 23px;
+}
+
+
+
+.plus {
+    border-width: thick;
+    padding: 10px 10px;
+    color: white;
+    background-color: purple;
+    height: 40px;
+    width: 40px;        
+}
+.minus {
+    border-width: thick;
+    padding: 10px 10px;
+    color: white;
+    background-color: purple;
+    height: 40px;
+    width: 40px;        
+}
+.multi {
+    border-width: thick;
+    padding: 10px 10px;
+    color: white;
+    background-color: purple;
+    height: 40px;
+    width: 40px;        
+}
+.devide {
+    border-width: thick;
+    padding: 10px 10px;
+    color: white;
+    background-color: purple;
+    height: 40px;
+    width: 40px;        
+}
+
+.your_result {
+    border-width: thick;
+    color:greenyellow;
+    background-color: rgb(13, 98, 40);
+    height: 140px;
+    width: 340px;    
+    padding: 10px 10px;    
+}
